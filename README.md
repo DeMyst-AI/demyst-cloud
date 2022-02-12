@@ -13,3 +13,5 @@ DeMyst Cloud - Utilities for interacting with cloud services
 ## Coolify.io
 Alternative to AWS, maybe easier:
 https://coolify.io/demo
+
+Thanks!
